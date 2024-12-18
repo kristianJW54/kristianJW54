@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Great Western Railway Backend](https://github.com/kristianJW54/GWR-Project)
 
-- 🌱 I’m currently learning **GO For Backend Services and API's**
+- 🌱 I’m currently learning **GO For Backend and Distributed Systems**
 
-- 💬 Ask me about **Anything Data**
+- 💬 Ask me about **Anything Data or Networking**
 
 - 📫 How to reach me **kristian15994@gmail.com**
 
