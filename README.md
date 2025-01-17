@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kristian</h1>
 <h3 align="center">A talented developer and consultant who loves to spend time programming at work and in my spare time. I thrive when problem solving and love developing unique solutions.</h3>
 
-- 🔭 I’m currently working on [Great Western Railway Backend](https://github.com/kristianJW54/GWR-Project)
+- 🔭 I’m currently working on [GoferBroke - A anti-entropy distributed system using a custom TCP binary protocol](https://github.com/kristianJW54/GoferBroke)
 
 - 🌱 I’m currently learning **GO For Backend and Distributed Systems**
 
