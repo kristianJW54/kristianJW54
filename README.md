@@ -3,10 +3,6 @@
 
 - 🔭 I’m currently working on [GoferBroke - A anti-entropy distributed system using a custom TCP binary protocol](https://github.com/kristianJW54/GoferBroke)
 
-- 🌱 I’m currently learning **GO For Backend and Distributed Systems**
-
-- 💬 Ask me about **Anything Data or Networking**
-
 - 📫 How to reach me **kristian15994@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/kristian-woodroffe-679452156/](https://www.linkedin.com/in/kristian-woodroffe-679452156/)
